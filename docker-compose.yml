@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: traffic_prediction_app
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - FLASK_APP=app.py
+      - SECRET_KEY=your-secret-key-change-in-production
+    volumes:
+      - ./saved_models:/app/saved_models
+      - ./users.db:/app/users.db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  # Optional: Database service (if using PostgreSQL instead of SQLite)
+  # db:
+  #   image: postgres:15
+  #   container_name: traffic_db
+  #   environment:
+  #     - POSTGRES_USER=traffic_user
+  #     - POSTGRES_PASSWORD=traffic_password
+  #     - POSTGRES_DB=traffic_db
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   restart: unless-stopped
+
+volumes:
+  # postgres_data:
+  #   driver: local

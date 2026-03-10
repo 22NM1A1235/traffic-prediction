@@ -1,0 +1,4729 @@
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3532, Lng=78.499
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2503
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.1630068   0.40045205]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3661, Lng=78.4661
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2516
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.22362392 -0.31647606]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3532, Lng=78.499
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2503
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.1630068   0.40045205]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.4306, max=54.9951, mean=52.5837
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45228 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3532, Lng=78.499
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2503
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.1630068   0.40045205]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.4306, max=54.9951, mean=52.5837
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45228 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.372265349430037, Lng=78.49937438964845
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.40840791 0.40861043]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.8179, max=57.0023, mean=54.5048
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43492 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.371487150345217, Lng=78.52186203002931
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2596
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.38508422 0.89864148]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.2896, max=55.6890, mean=53.3293
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42728 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3832007446749, Lng=78.51154088974
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2543
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.73615673 0.67373219]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.0870, max=56.4357, mean=53.8314
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41816 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.393971675033153, Lng=78.47551345825195
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2553
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 1.05897631 -0.11134619]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.1926, max=56.8603, mean=54.0552
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44728 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.385289453729737, Lng=78.43723297119142
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2592
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.79875821 -0.94552118]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=53.1425, max=57.3127, mean=54.7709
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 50288 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.38602663946904, Lng=78.4673595428467
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2589
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.82085268 -0.2890292 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=52.5516, max=56.9644, mean=54.5648
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48080 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.400564973431866, Lng=78.50119829177858
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2557
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [1.25658652 0.44835531]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.0944, max=56.2607, mean=53.9436
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46564 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3532, Lng=78.499
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2503
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.1630068   0.40045205]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.4306, max=54.9951, mean=52.5837
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45228 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3532, Lng=78.499
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2503
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.1630068   0.40045205]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.4306, max=54.9951, mean=52.5837
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45228 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.44, Lng=78.61
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [2.43850843 2.81926727]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6629, max=59.2391, mean=54.9393
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41620 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3821, Lng=78.4184
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2542
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 0.7031659  -1.35591287]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=54.1377, max=57.8874, mean=55.6603
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48720 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.371118528571976, Lng=78.49971771240236
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.37403612 0.41609182]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.8334, max=56.9986, mean=54.5077
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43384 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.36620350070845, Lng=78.52523088455202
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2552
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.22672598 0.97205262]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.5482, max=54.9078, mean=52.5838
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48560 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.248367290475684, Lng=78.45886230468751
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2591
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-3.3049871  -0.47419361]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.4987, max=57.6783, mean=55.0805
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48480 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.30409897079661, Lng=78.46590042114259
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2565
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-1.63463209 -0.32082511]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=52.7033, max=57.2628, mean=54.9706
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42576 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.904935281438082, Lng=77.52088308334352
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2569
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-133.48361062  -20.91381892]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=11.8101, max=272.1226, mean=139.1983
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40568 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.304447240756687, Lng=78.43933045864107
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2591
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-1.62419396 -0.89981456]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=52.3602, max=56.9237, mean=54.6943
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47364 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.480361856782206, Lng=78.55979919433595
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [3.64820872 1.72533508]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=50.0544, max=58.4760, mean=55.2401
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41008 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.417149548319458, Lng=78.57340335845949
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [1.75364901 2.02178516]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=49.6340, max=56.7218, mean=54.1659
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40288 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.23131658819748, Lng=78.48701477050783
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2586
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 99 out of 99
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-3.81602007  0.13928038]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] Final predictions: min=51.4840, max=58.5959, mean=55.5043
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44416 chars
+[PREDICTION] Rendering template with plot...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.175771224423402, Lng=77.61840820312501
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00571357  0.09560212]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.176272651278543, Lng=77.59145736694337
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00520309 -0.03304392]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.329664329425057, Lng=78.64013671875001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.22317399 4.97267977]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.184629614255783, Lng=77.6096534729004
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.00330475 0.05381264]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.95102921601837, Lng=77.58407592773439
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2424
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.23451307 -0.06827818]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.17643979333528, Lng=77.58510589599611
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00503293 -0.06336177]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.961735843534306, Lng=77.59918212890626
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S550
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.22361314  0.00382915]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.175771224423402, Lng=77.59660720825197
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00571357 -0.00846187]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=16.88865978738161, Lng=78.70605468750001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [3.77420755 5.28732994]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.22475820662464, Lng=78.57421875000001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.11637389 4.6580296 ]
+[PREDICTION] Running model inference...
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: False
+No user in session, redirecting to login
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.35, Lng=78.5
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2522
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2438768  4.30375681]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1217
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=73.8323, max=81.1409, mean=77.2836
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43528 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 77.28
+[PREDICTION] pred_min: 73.83
+[PREDICTION] pred_max: 81.14
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.35, Lng=78.5
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2522
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2438768  4.30375681]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1217
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=73.8323, max=81.1409, mean=77.2836
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43528 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 77.28
+[PREDICTION] pred_min: 73.83
+[PREDICTION] pred_max: 81.14
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.36, Lng=78.51
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.25405734 4.35149041]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1258
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=81.4991, max=86.8412, mean=84.3004
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42608 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 84.30
+[PREDICTION] pred_min: 81.50
+[PREDICTION] pred_max: 86.84
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.4, Lng=78.55
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2556
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2947795  4.54242479]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1254
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=79.3768, max=84.3001, mean=81.9563
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40340 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 81.96
+[PREDICTION] pred_min: 79.38
+[PREDICTION] pred_max: 84.30
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.5, Lng=78.6
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.39658491 4.78109278]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=58.3998, max=82.8702, mean=73.0206
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40104 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 73.02
+[PREDICTION] pred_min: 58.40
+[PREDICTION] pred_max: 82.87
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.183793930804574, Lng=77.60656356811523
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.00245398 0.03906341]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.7419, max=130.6453, mean=130.1063
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42132 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.11
+[PREDICTION] pred_min: 129.74
+[PREDICTION] pred_max: 130.65
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.945675729694095, Lng=77.60192871093751
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2039
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.23996321  0.01693957]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 817
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.2054, max=131.7793, mean=131.4269
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 39656 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.43
+[PREDICTION] pred_min: 131.21
+[PREDICTION] pred_max: 131.78
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.942998943409737, Lng=77.508544921875
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2130
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.24268832 -0.42881483]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 893
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.7369, max=132.1160, mean=131.9381
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 37788 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.94
+[PREDICTION] pred_min: 131.74
+[PREDICTION] pred_max: 132.12
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.26672782352052, Lng=78.37646484375001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2515
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.15910123 3.71407908]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1209
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=54.1779, max=82.7982, mean=70.6439
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44116 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 70.64
+[PREDICTION] pred_min: 54.18
+[PREDICTION] pred_max: 82.80
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.47905197968306, Lng=78.54400634765626
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.37525869 4.51381494]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=59.1484, max=82.6865, mean=73.2749
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40072 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 73.27
+[PREDICTION] pred_min: 59.15
+[PREDICTION] pred_max: 82.69
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.420589123492935, Lng=78.57542037963869
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.31574034 4.66376541]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=59.2762, max=82.6606, mean=73.3179
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40128 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 73.32
+[PREDICTION] pred_min: 59.28
+[PREDICTION] pred_max: 82.66
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.407772282258012, Lng=78.57323169708252
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.30269211 4.65331804]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=59.4033, max=82.6283, mean=73.3597
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 39956 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 73.36
+[PREDICTION] pred_min: 59.40
+[PREDICTION] pred_max: 82.63
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.42881927249734, Lng=78.5451650619507
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.32411908 4.5193459 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=59.5389, max=82.5885, mean=73.4034
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 39772 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 73.40
+[PREDICTION] pred_min: 59.54
+[PREDICTION] pred_max: 82.59
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.014767530557833, Lng=79.376220703125
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [3.90259204 8.48627335]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=55.6279, max=82.7099, mean=71.2761
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43376 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 71.28
+[PREDICTION] pred_min: 55.63
+[PREDICTION] pred_max: 82.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=16.446622271646643, Lng=80.81542968750001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 3.32418948 15.35613541]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=54.3122, max=83.2274, mean=70.8020
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42788 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 70.80
+[PREDICTION] pred_min: 54.31
+[PREDICTION] pred_max: 83.23
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.337529877830157, Lng=78.50340843200685
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2501
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.23118154 4.32002648]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1194
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=78.2453, max=82.9608, mean=80.8134
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42024 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 80.81
+[PREDICTION] pred_min: 78.25
+[PREDICTION] pred_max: 82.96
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.46071271042981, Lng=78.3160400390625
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.35658832 3.42564976]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=72.8483, max=81.6197, mean=78.0528
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41916 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 78.05
+[PREDICTION] pred_min: 72.85
+[PREDICTION] pred_max: 81.62
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.414938358643692, Lng=78.42899322509767
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2577
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.30998756 3.96481594]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1275
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=55.6804, max=81.1993, mean=70.4561
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44196 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 70.46
+[PREDICTION] pred_min: 55.68
+[PREDICTION] pred_max: 81.20
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.41416034109538, Lng=78.45680236816408
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2528
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.3091955  4.09755898]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1223
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=56.2869, max=79.5341, mean=69.7558
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40888 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 69.76
+[PREDICTION] pred_min: 56.29
+[PREDICTION] pred_max: 79.53
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[ERROR] Model is None!
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.35, Lng=78.5
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2522
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2438768  4.30375681]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1217
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.9713, max=68.5865, mean=65.4626
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46912 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.46
+[PREDICTION] pred_min: 63.97
+[PREDICTION] pred_max: 68.59
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.36, Lng=78.51
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.25405734 4.35149041]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1258
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=64.5600, max=69.6965, mean=66.1930
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44600 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 66.19
+[PREDICTION] pred_min: 64.56
+[PREDICTION] pred_max: 69.70
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.4, Lng=78.55
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2556
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2947795  4.54242479]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1254
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=64.4325, max=69.1634, mean=65.9785
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48328 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.98
+[PREDICTION] pred_min: 64.43
+[PREDICTION] pred_max: 69.16
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.5, Lng=78.6
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.39658491 4.78109278]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.7954, max=69.1701, mean=65.5388
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40444 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.54
+[PREDICTION] pred_min: 63.80
+[PREDICTION] pred_max: 69.17
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.35, Lng=78.5
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2522
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2438768  4.30375681]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1217
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.9713, max=68.5865, mean=65.4626
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46912 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.46
+[PREDICTION] pred_min: 63.97
+[PREDICTION] pred_max: 68.59
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.36, Lng=78.51
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.25405734 4.35149041]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1258
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=64.5600, max=69.6965, mean=66.1930
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44600 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 66.19
+[PREDICTION] pred_min: 64.56
+[PREDICTION] pred_max: 69.70
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.4, Lng=78.55
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2556
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2947795  4.54242479]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1254
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=64.4325, max=69.1634, mean=65.9785
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48328 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.98
+[PREDICTION] pred_min: 64.43
+[PREDICTION] pred_max: 69.16
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.5, Lng=78.6
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.39658491 4.78109278]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.7954, max=69.1701, mean=65.5388
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40444 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.54
+[PREDICTION] pred_min: 63.80
+[PREDICTION] pred_max: 69.17
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.24574420800713, Lng=78.55224609375001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.13773878 4.55314621]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1298
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=62.9896, max=68.0769, mean=64.5593
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43188 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 64.56
+[PREDICTION] pred_min: 62.99
+[PREDICTION] pred_max: 68.08
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.316759184272254, Lng=78.549542427063
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.21003586 4.54024063]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=64.2233, max=69.1290, mean=65.8511
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47892 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.85
+[PREDICTION] pred_min: 64.22
+[PREDICTION] pred_max: 69.13
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.46071271042981, Lng=78.28308105468751
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.35658832 3.26832468]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=65.2302, max=69.9001, mean=66.6170
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48340 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 66.62
+[PREDICTION] pred_min: 65.23
+[PREDICTION] pred_max: 69.90
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.26672782352052, Lng=83.05664062500001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 4.15910123 26.05424123]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=57.0692, max=71.4188, mean=65.5954
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 50580 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.60
+[PREDICTION] pred_min: 57.07
+[PREDICTION] pred_max: 71.42
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.853290114098012, Lng=83.43017578125001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 4.75625332 27.83725887]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=55.6586, max=71.6803, mean=65.2119
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44612 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.21
+[PREDICTION] pred_min: 55.66
+[PREDICTION] pred_max: 71.68
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.978733095556183, Lng=79.45312500000001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.88396106 8.85336521]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=62.4323, max=69.6770, mean=65.5109
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41284 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.51
+[PREDICTION] pred_min: 62.43
+[PREDICTION] pred_max: 69.68
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=16.446622271646643, Lng=80.73852539062501
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 3.32418948 14.98904355]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=60.9824, max=70.1297, mean=65.7479
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48736 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.75
+[PREDICTION] pred_min: 60.98
+[PREDICTION] pred_max: 70.13
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=18.729501999072138, Lng=73.19091796875001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [  5.64828435 -21.03840104]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=61.3661, max=71.1874, mean=66.3835
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 50816 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 66.38
+[PREDICTION] pred_min: 61.37
+[PREDICTION] pred_max: 71.19
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=18.916679786648565, Lng=73.07006835937501
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [  5.83884145 -21.61525969]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=61.1913, max=71.3648, mean=66.3706
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 51400 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 66.37
+[PREDICTION] pred_min: 61.19
+[PREDICTION] pred_max: 71.36
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.55456352859367, Lng=77.76123046875001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2400
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.63813655  0.77734415]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1120
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=130.0929, max=133.5015, mean=131.5740
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 51480 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.57
+[PREDICTION] pred_min: 130.09
+[PREDICTION] pred_max: 133.50
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.993852961834985, Lng=80.29357910156251
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1454
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.19091618 12.86515489]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 359
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=125.8130, max=131.3893, mean=128.9322
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47688 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.93
+[PREDICTION] pred_min: 125.81
+[PREDICTION] pred_max: 131.39
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.988155403497013, Lng=77.60270655155183
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S281
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.19671661  0.02065249]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1317
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=126.9399, max=130.5686, mean=128.6399
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46764 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.64
+[PREDICTION] pred_min: 126.94
+[PREDICTION] pred_max: 130.57
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.171759772602536, Lng=77.6067352294922
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00979744  0.03988282]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=127.6104, max=131.2231, mean=129.2768
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43348 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.28
+[PREDICTION] pred_min: 127.61
+[PREDICTION] pred_max: 131.22
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.801088279674323, Lng=77.65136718750001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2400
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.38716104  0.2529272 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1120
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=130.0192, max=133.6474, mean=131.5914
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 51572 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.59
+[PREDICTION] pred_min: 130.02
+[PREDICTION] pred_max: 133.65
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.43729470969034, Lng=78.45684528350831
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2558
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.33274753 4.09776383]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1256
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.7329, max=68.5936, mean=65.3197
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47876 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 65.32
+[PREDICTION] pred_min: 63.73
+[PREDICTION] pred_max: 68.59
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.16841684587487, Lng=77.56690979003908
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S124
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.01320072 -0.15021833]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 186
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.9020, max=132.2787, mean=132.0868
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43184 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 132.09
+[PREDICTION] pred_min: 131.90
+[PREDICTION] pred_max: 132.28
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.999539935560733, Lng=77.58141517639162
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S657
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.18512654 -0.0809789 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1632
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.6384, max=129.0371, mean=128.8386
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44736 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.84
+[PREDICTION] pred_min: 128.64
+[PREDICTION] pred_max: 129.04
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.876069959946507, Lng=77.59437561035156
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S704
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.31082564 -0.01911409]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1669
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.0703, max=131.4891, mean=131.2785
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44252 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.28
+[PREDICTION] pred_min: 131.07
+[PREDICTION] pred_max: 131.49
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.329664329425057, Lng=78.57421875000001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.22317399 4.6580296 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.3019, max=57.6544, mean=54.9737
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46132 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.97
+[PREDICTION] pred_min: 52.30
+[PREDICTION] pred_max: 57.65
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.333371830426593, Lng=78.5305953025818
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2517
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.22694843 4.44979919]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1211
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=49.6566, max=54.7119, mean=52.0645
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47092 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 52.06
+[PREDICTION] pred_min: 49.66
+[PREDICTION] pred_max: 54.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.51703458449016, Lng=78.35037231445314
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.41392703 3.58953006]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.7651, max=58.8297, mean=56.2830
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46624 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.28
+[PREDICTION] pred_min: 53.77
+[PREDICTION] pred_max: 58.83
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.29819876772392, Lng=78.59619140625001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.19114035 4.76291299]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2924, max=57.6457, mean=54.9638
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46152 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.96
+[PREDICTION] pred_min: 52.29
+[PREDICTION] pred_max: 57.65
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.25885924745849, Lng=78.42315673828125
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2569
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.15109059 3.93695629]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1267
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.6309, max=59.1538, mean=56.4371
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45284 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.44
+[PREDICTION] pred_min: 53.63
+[PREDICTION] pred_max: 59.15
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.937645284624287, Lng=77.58819580078126
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S499
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.24813863 -0.04861254]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1500
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=130.1924, max=130.6627, mean=130.4153
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43004 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.42
+[PREDICTION] pred_min: 130.19
+[PREDICTION] pred_max: 130.66
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.06342578889815, Lng=77.72689819335939
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1454
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.12008729  0.61346386]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 359
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.1655, max=129.5654, mean=129.3782
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44320 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.38
+[PREDICTION] pred_min: 129.17
+[PREDICTION] pred_max: 129.57
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.0023938273167, Lng=77.61489987373353
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1454
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.18222112  0.0788556 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 359
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.1673, max=129.5750, mean=129.3791
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44264 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.38
+[PREDICTION] pred_min: 129.17
+[PREDICTION] pred_max: 129.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.35, Lng=78.5
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2522
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2438768  4.30375681]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1217
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.5565, max=56.1262, mean=54.7159
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44984 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.72
+[PREDICTION] pred_min: 53.56
+[PREDICTION] pred_max: 56.13
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.36, Lng=78.51
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2560
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.25405734 4.35149041]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1258
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.6420, max=55.2032, mean=53.3154
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43080 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 53.32
+[PREDICTION] pred_min: 51.64
+[PREDICTION] pred_max: 55.20
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.4, Lng=78.55
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2556
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2947795  4.54242479]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1254
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.1684, max=55.5827, mean=54.3019
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46704 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.30
+[PREDICTION] pred_min: 53.17
+[PREDICTION] pred_max: 55.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.5, Lng=78.6
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.39658491 4.78109278]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.8283, max=58.3459, mean=55.1674
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 38748 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 55.17
+[PREDICTION] pred_min: 51.83
+[PREDICTION] pred_max: 58.35
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.175771224423402, Lng=77.59094238281251
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00571357 -0.03550212]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.3413, max=129.7137, mean=129.5303
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41448 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.53
+[PREDICTION] pred_min: 129.34
+[PREDICTION] pred_max: 129.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.99318389753791, Lng=77.61295795440675
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1454
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.19159733  0.06958612]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 359
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.1673, max=129.5753, mean=129.3791
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44240 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.38
+[PREDICTION] pred_min: 129.17
+[PREDICTION] pred_max: 129.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.984736805762964, Lng=77.60712146759035
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S279
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.20019692  0.04172647]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1315
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.9381, max=130.3950, mean=130.1600
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43076 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.16
+[PREDICTION] pred_min: 129.94
+[PREDICTION] pred_max: 130.40
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.994438391616022, Lng=77.6113271713257
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1454
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.19032018  0.06180181]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 359
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.1674, max=129.5754, mean=129.3791
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44248 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.38
+[PREDICTION] pred_min: 129.17
+[PREDICTION] pred_max: 129.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.946344921773784, Lng=77.56587982177736
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S779
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.23928193 -0.15513474]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1724
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.4542, max=128.8779, mean=128.6544
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43608 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.65
+[PREDICTION] pred_min: 128.45
+[PREDICTION] pred_max: 128.88
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.931120357607853, Lng=77.56008625030519
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S846
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.25478136 -0.18278954]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1775
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.8471, max=130.2849, mean=130.0635
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45588 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.06
+[PREDICTION] pred_min: 129.85
+[PREDICTION] pred_max: 130.28
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.945508431393435, Lng=77.59304523468019
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S286
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.24013353 -0.02546445]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1320
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.0940, max=128.4845, mean=128.2891
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43456 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.29
+[PREDICTION] pred_min: 128.09
+[PREDICTION] pred_max: 128.48
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=14.817370620155266, Lng=79.87609863281251
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [ 1.66552329 10.87237048]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1298
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.4610, max=57.3883, mean=54.5142
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42032 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.51
+[PREDICTION] pred_min: 51.46
+[PREDICTION] pred_max: 57.39
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.450232298814154, Lng=78.33663940429688
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.3459187  3.52397794]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.7879, max=58.8708, mean=56.3180
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46612 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.32
+[PREDICTION] pred_min: 53.79
+[PREDICTION] pred_max: 58.87
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.42263645890847, Lng=78.44311237335206
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2558
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.31782464 4.03221171]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1256
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.6023, max=57.5840, mean=54.6486
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45832 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.65
+[PREDICTION] pred_min: 51.60
+[PREDICTION] pred_max: 57.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.40556097908964, Lng=78.4807813167572
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2568
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.30044088 4.21201913]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1266
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=50.2299, max=53.6490, mean=51.8598
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44516 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 51.86
+[PREDICTION] pred_min: 50.23
+[PREDICTION] pred_max: 53.65
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.39470882578753, Lng=78.48371028900148
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2553
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2893928  4.22600016]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1251
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=50.5396, max=55.0132, mean=52.6488
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44284 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 52.65
+[PREDICTION] pred_min: 50.54
+[PREDICTION] pred_max: 55.01
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.452852458228737, Lng=78.28720092773439
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.34858616 3.28799031]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.8063, max=58.8428, mean=56.3051
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46636 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.31
+[PREDICTION] pred_min: 53.81
+[PREDICTION] pred_max: 58.84
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.420589123492935, Lng=78.44302654266359
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2558
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.31574034 4.03180201]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1256
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.6025, max=57.5843, mean=54.6488
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45808 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.65
+[PREDICTION] pred_min: 51.60
+[PREDICTION] pred_max: 57.58
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.160727941237164, Lng=77.66853332519533
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.02102844  0.33486735]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.3399, max=129.7058, mean=129.5298
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41456 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.53
+[PREDICTION] pred_min: 129.34
+[PREDICTION] pred_max: 129.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.87272304079707, Lng=77.5679397583008
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2286
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.31423299 -0.14530192]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1032
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.0666, max=129.5021, mean=129.2839
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44456 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.28
+[PREDICTION] pred_min: 129.07
+[PREDICTION] pred_max: 129.50
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.915560227894478, Lng=77.54558086395265
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S675
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.27062242 -0.25202896]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1646
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.4192, max=131.9090, mean=131.6583
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41592 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.66
+[PREDICTION] pred_min: 131.42
+[PREDICTION] pred_max: 131.91
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.928192450281353, Lng=77.57364749908449
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2471
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.25776213 -0.11805682]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1171
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.5497, max=131.9606, mean=131.7525
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44808 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.75
+[PREDICTION] pred_min: 131.55
+[PREDICTION] pred_max: 131.96
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.019276068411179, Lng=77.51918792724611
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S234
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.16503409 -0.37801194]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1068
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.2996, max=131.7026, mean=131.4996
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41740 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.50
+[PREDICTION] pred_min: 131.30
+[PREDICTION] pred_max: 131.70
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.888118498764344, Lng=77.69050598144533
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1223
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.29855958  0.43975074]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 177
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.4038, max=131.8570, mean=131.6377
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41112 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.64
+[PREDICTION] pred_min: 131.40
+[PREDICTION] pred_max: 131.86
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.90468429299146, Lng=77.57484912872314
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S705
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.2816947  -0.11232101]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1670
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.4973, max=131.9413, mean=131.7187
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 49244 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.72
+[PREDICTION] pred_min: 131.50
+[PREDICTION] pred_max: 131.94
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.92066338803538, Lng=77.60540485382081
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S744
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.26542712  0.03353245]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1700
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.2793, max=129.6578, mean=129.4737
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 39532 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.47
+[PREDICTION] pred_min: 129.28
+[PREDICTION] pred_max: 129.66
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.933546311940354, Lng=77.56257534027101
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S11
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.25231161 -0.17090822]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 75
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=81.3948, max=83.7554, mean=82.5118
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 39588 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 82.51
+[PREDICTION] pred_min: 81.39
+[PREDICTION] pred_max: 83.76
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.937645284624287, Lng=77.63626098632812
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1458
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.24813863  0.18081987]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 361
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=131.5366, max=131.9249, mean=131.7375
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46984 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 131.74
+[PREDICTION] pred_min: 131.54
+[PREDICTION] pred_max: 131.92
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.92961458098724, Lng=77.58686542510988
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2071
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.25631432 -0.05496291]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 847
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.9676, max=129.3873, mean=129.1767
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41128 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.18
+[PREDICTION] pred_min: 128.97
+[PREDICTION] pred_max: 129.39
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.28770905062193, Lng=78.45336914062501
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2591
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.18046125 4.08117095]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1291
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.8294, max=56.5980, mean=54.1381
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47120 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.14
+[PREDICTION] pred_min: 51.83
+[PREDICTION] pred_max: 56.60
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.315489105118164, Lng=78.47040653228761
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2565
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.20874285 4.16249655]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1263
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.0676, max=59.1186, mean=56.1574
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41628 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.16
+[PREDICTION] pred_min: 53.07
+[PREDICTION] pred_max: 59.12
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.310572586937717, Lng=78.50018978118898
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2519
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.20373757 4.30466271]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1213
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2193, max=57.6621, mean=55.0092
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 38820 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 55.01
+[PREDICTION] pred_min: 52.22
+[PREDICTION] pred_max: 57.66
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.296723687386567, Lng=78.48173618316652
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2586
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.18963864 4.21657705]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1285
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.3907, max=66.0756, mean=64.6733
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42696 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 64.67
+[PREDICTION] pred_min: 63.39
+[PREDICTION] pred_max: 66.08
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.311064244673393, Lng=78.45933437347414
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2527
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2042381  4.10964515]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1222
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.4957, max=55.9135, mean=54.1102
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 48116 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.11
+[PREDICTION] pred_min: 52.50
+[PREDICTION] pred_max: 55.91
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.312457267783508, Lng=78.48808765411377
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2580
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.20565627 4.2468949 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1279
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=50.3377, max=54.0762, mean=52.0982
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45360 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 52.10
+[PREDICTION] pred_min: 50.34
+[PREDICTION] pred_max: 54.08
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.186468107797188, Lng=77.60982513427736
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [0.00517644 0.05463204]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.3413, max=129.7119, mean=129.5302
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41452 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.53
+[PREDICTION] pred_min: 129.34
+[PREDICTION] pred_max: 129.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.1779440667091, Lng=77.60776519775392
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.00350149  0.04479923]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.3413, max=129.7121, mean=129.5302
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41436 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.53
+[PREDICTION] pred_min: 129.34
+[PREDICTION] pred_max: 129.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.98925310838771, Lng=77.59029865264894
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S235
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.19559908 -0.03857488]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1077
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=130.0970, max=130.4981, mean=130.3022
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41956 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.30
+[PREDICTION] pred_min: 130.10
+[PREDICTION] pred_max: 130.50
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.28770905062193, Lng=78.47534179687501
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2586
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.18046125 4.18605434]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1285
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.4305, max=66.1104, mean=64.7073
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42616 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 64.71
+[PREDICTION] pred_min: 63.43
+[PREDICTION] pred_max: 66.11
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.30516426506831, Lng=78.46637248992921
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2565
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.1982316  4.14324061]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1263
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.0708, max=59.1236, mean=56.1615
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41688 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.16
+[PREDICTION] pred_min: 53.07
+[PREDICTION] pred_max: 59.12
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.308769830657333, Lng=78.49289417266847
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2519
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.20190226 4.26983814]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1213
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2262, max=57.6716, mean=55.0175
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 38868 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 55.02
+[PREDICTION] pred_min: 52.23
+[PREDICTION] pred_max: 57.67
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.296231991312766, Lng=78.47967624664308
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2586
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.18913807 4.20674423]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1285
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=63.4001, max=66.0839, mean=64.6814
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42768 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 64.68
+[PREDICTION] pred_min: 63.40
+[PREDICTION] pred_max: 66.08
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.38209494787749, Lng=78.46607208251955
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2589
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.27655119 4.14180666]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1288
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.3015, max=56.4313, mean=54.2629
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47660 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.26
+[PREDICTION] pred_min: 52.30
+[PREDICTION] pred_max: 56.43
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.397329782184343, Lng=78.44757556915285
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2582
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.29206108 4.05351615]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1281
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.7526, max=56.6818, mean=54.2073
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46472 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.21
+[PREDICTION] pred_min: 51.75
+[PREDICTION] pred_max: 56.68
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.92961458098724, Lng=77.58544921875001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1667
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.25631432 -0.06172297]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 524
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.0778, max=128.4662, mean=128.2748
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 43912 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 128.27
+[PREDICTION] pred_min: 128.08
+[PREDICTION] pred_max: 128.47
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.917902675001255, Lng=77.59205818176271
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S528
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.26823768 -0.03017601]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1524
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=130.6414, max=131.0448, mean=130.8396
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41628 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 130.84
+[PREDICTION] pred_min: 130.64
+[PREDICTION] pred_max: 131.04
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.945006535817749, Lng=77.49343872070314
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S849
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.24064448 -0.50092217]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1778
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=128.9265, max=129.2993, mean=129.1174
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42028 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.12
+[PREDICTION] pred_min: 128.93
+[PREDICTION] pred_max: 129.30
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=12.957971847266093, Lng=77.53300666809083
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S74
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.2274451  -0.31205012]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1697
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=71.3807, max=74.0948, mean=72.6729
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 40304 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 72.67
+[PREDICTION] pred_min: 71.38
+[PREDICTION] pred_max: 74.09
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.26672782352052, Lng=78.55224609375001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.15910123 4.55314621]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1298
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.7735, max=57.8744, mean=54.8977
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42080 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.90
+[PREDICTION] pred_min: 51.77
+[PREDICTION] pred_max: 57.87
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.311002787528338, Lng=78.53365302085878
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2598
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.20417553 4.46439478]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1298
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.7781, max=57.8750, mean=54.9006
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42096 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.90
+[PREDICTION] pred_min: 51.78
+[PREDICTION] pred_max: 57.88
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.32325283888823, Lng=78.55343699455263
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.21664675 4.55883081]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.3134, max=57.6717, mean=54.9903
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46068 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.99
+[PREDICTION] pred_min: 52.31
+[PREDICTION] pred_max: 57.67
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.3356454542245, Lng=78.52829933166505
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2517
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.2292631 4.4388397]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1211
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=49.6573, max=54.7129, mean=52.0656
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47072 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 52.07
+[PREDICTION] pred_min: 49.66
+[PREDICTION] pred_max: 54.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.335317726405112, Lng=78.56117248535158
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2534
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.22892946 4.59575508]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1230
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.9861, max=55.6389, mean=53.6902
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 44316 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 53.69
+[PREDICTION] pred_min: 51.99
+[PREDICTION] pred_max: 55.64
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.505247729152888, Lng=78.58589172363283
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2526
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.40192738 4.7137489 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1221
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.8363, max=58.3535, mean=55.1754
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 38764 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 55.18
+[PREDICTION] pred_min: 51.84
+[PREDICTION] pred_max: 58.35
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.269350607576623, Lng=78.44306945800781
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2591
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.16177136 4.03200686]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1291
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=51.8334, max=56.6077, mean=54.1462
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 47096 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.15
+[PREDICTION] pred_min: 51.83
+[PREDICTION] pred_max: 56.61
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.33228621633803, Lng=78.62159729003908
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.22584321 4.88418441]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2747, max=57.6154, mean=54.9372
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46192 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.94
+[PREDICTION] pred_min: 52.27
+[PREDICTION] pred_max: 57.62
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: GET
+User in session: True
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=13.165742471635616, Lng=77.60467529296876
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S1679
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [-0.01592338  0.03005   ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 532
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=129.3412, max=129.7124, mean=129.5302
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 41440 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 129.53
+[PREDICTION] pred_min: 129.34
+[PREDICTION] pred_max: 129.71
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.371610024104744, Lng=78.53027343750001
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2505
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.26587697 4.44826282]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1198
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.3320, max=57.4160, mean=54.8802
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 42012 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.88
+[PREDICTION] pred_min: 52.33
+[PREDICTION] pred_max: 57.42
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.258203517630033, Lng=78.43551635742189
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2569
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.15042303 3.9959532 ]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1267
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.6252, max=59.1454, mean=56.4291
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 45260 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.43
+[PREDICTION] pred_min: 53.63
+[PREDICTION] pred_max: 59.15
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.387337184561485, Lng=78.64562988281251
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2585
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.28188807 4.99890062]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1284
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=50.4994, max=54.8874, mean=52.5467
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46072 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 52.55
+[PREDICTION] pred_min: 50.50
+[PREDICTION] pred_max: 54.89
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.5262016095855, Lng=78.33663940429688
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.42325956 3.52397794]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.7746, max=58.8447, mean=56.2963
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46656 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.30
+[PREDICTION] pred_min: 53.77
+[PREDICTION] pred_max: 58.84
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.28246396789921, Lng=78.58795166015626
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.17512147 4.72358172]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2985, max=57.6568, mean=54.9735
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46136 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.97
+[PREDICTION] pred_min: 52.30
+[PREDICTION] pred_max: 57.66
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.492150326224376, Lng=78.3160400390625
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2559
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.38859351 3.42564976]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1257
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=53.7958, max=58.8777, mean=56.3250
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46608 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 56.33
+[PREDICTION] pred_min: 53.80
+[PREDICTION] pred_max: 58.88
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
+
+=== PREDICTION ROUTE CALLED ===
+Method: POST
+User in session: True
+
+[PREDICTION] Got POST request
+[PREDICTION] Lat=17.27328471367687, Lng=78.62228393554689
+[PREDICTION] Finding nearest sensor...
+[PREDICTION] Target sensor: S2510
+[PREDICTION] Loading traffic time series...
+[PREDICTION] Pivot shape: (200, 1891)
+[PREDICTION] Available sensors: 1891 out of 1891
+[PREDICTION] Last window flow shape: (12,)
+[PREDICTION] Query coords normalized: [4.1657765  4.88746201]
+[PREDICTION] Running model inference...
+[PREDICTION] Prediction output shape: torch.Size([1, 12, 1])
+[PREDICTION] out_vals_norm shape: (12,)
+[PREDICTION] sensor_idx_scaler: 1204
+[PREDICTION] scaler_scale type: <class 'numpy.ndarray'>, len: 1891
+[PREDICTION] Final predictions: min=52.2803, max=57.6307, mean=54.9495
+[PREDICTION] Generating plot...
+[PREDICTION] Plot generated, size: 46136 chars
+[PREDICTION] Rendering template with plot...
+[PREDICTION] About to render template
+[PREDICTION] selected_sensor keys: ['sensor_id', 'latitude', 'longitude', 'road_name', 'sensor_numeric_id', 'sequence_id', 'history_start_step']
+[PREDICTION] pred_mean: 54.95
+[PREDICTION] pred_min: 52.28
+[PREDICTION] pred_max: 57.63
+[PREDICTION] pred_values count: 12
+[PREDICTION] Template rendered successfully, returning result
