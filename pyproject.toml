@@ -7,7 +7,7 @@ name = "traffic-flow-prediction"
 version = "1.0.0"
 description = "Traffic Flow Prediction System using Spatial-Temporal MLP"
 authors = [{name = "Traffic Prediction Team"}]
-requires-python = ">=3.9,<3.13"
+requires-python = ">=3.10,<3.11"
 dependencies = [
     "Flask==2.3.0",
     "Werkzeug==2.3.0",
@@ -32,7 +32,7 @@ packages = []
 
 [tool.black]
 line-length = 100
-target-version = ['py39', 'py310', 'py311', 'py312']
+target-version = ['py310']
 
 [tool.isort]
 profile = "black"
