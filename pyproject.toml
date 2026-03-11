@@ -7,7 +7,7 @@ name = "traffic-flow-prediction"
 version = "1.0.0"
 description = "Traffic Flow Prediction System using Spatial-Temporal MLP"
 authors = [{name = "Traffic Prediction Team"}]
-requires-python = ">=3.10,<3.11"
+requires-python = ">=3.11,<3.13"
 dependencies = [
     "Flask==2.3.0",
     "Werkzeug==2.3.0",
